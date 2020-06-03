@@ -6,6 +6,7 @@ Think Data Structures
 * 링크
 	* [예제 코드](https://github.com/yudong80/ThinkDataStructures)
 	* [옮긴이 브런치](https://brunch.co.kr/@yudong)
+* 이 책의 코드는 자바 7로 개발하였으며, 이보다 최신 버전에서는 동작하지만 하위 버전이라면 일부 코드가 동작하지 않을 수 있음
 - - -
 ## 목차
 1. [인터페이스](#인터페이스)
@@ -26,12 +27,23 @@ Think Data Structures
 16. [불리언 검색](#불리언-검색)
 17. [정렬](#정렬)
 
+- - -
+이 책은 아래 세 가지 주제를 다룬다.
+
+1. 자료구조
+	* 자바 컬렉션 프레임워크(Java Collection Framework, JCF) 구조로 시작하여 리스트, 맵과 같은 자료구조를 사용하는 방법과 이들이 어떻게 동작하는지 확인
+2. 알고리즘 분석
+	* 코드를 분석하고 이 코드가 얼마나 빨리 동작하는지와 얼마나 많은 공간(메모리)이 필요한지를 예측
+3. 정보 검색
+	* 앞의 두 주제에 동기를 부여하고 예제가 더욱 흥미롭도록 자료구조와 알고리즘을 활용하여 간단한 웹 검색 엔진 제작
+
 ## 인터페이스
 1. 리스트가 두 종류인 이유
 2. 자바 interface
 3. List interface
 4. 실습 1
 
+##### [상세로 이동](https://github.com/nara1030/think_data_structures/blob/master/docs/ch01.md)
 ##### [목차로 이동](#목차)
 
 ## 알고리즘 분석
@@ -39,6 +51,7 @@ Think Data Structures
 2. 빅오 표기법
 3. 실습 2
 
+##### [상세로 이동](https://github.com/nara1030/think_data_structures/blob/master/docs/ch02.md)
 ##### [목차로 이동](#목차)
 
 ## ArrayList 클래스
